@@ -1,0 +1,25 @@
+{
+  "name": "pr",
+  "version": "1.0.0",
+  "description": "a simple project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhmti01/pr.git"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js",
+    "pr",
+    "abolfazlrahmati"
+  ],
+  "author": "rhmti01",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhmti01/pr/issues"
+  },
+  "homepage": "https://github.com/rhmti01/pr#readme"
+}
