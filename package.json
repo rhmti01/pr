@@ -21,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/rhmti01/pr/issues"
   },
-  "homepage": "https://github.com/rhmti01/pr#readme"
+  "homepage": "https://github.com/rhmti01/pr#readme",
+  "main": "index.js"
 }
